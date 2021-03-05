@@ -3,7 +3,7 @@
 #### Cursando:
 * Tecnólogo em Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi ([curso](https://portal.anhembi.br/graduacao/cursos/tecnologia-em-analise-e-desenvolvimento-de-sistemas/))
 * Formação Spring Framework ([curso](https://cursos.alura.com.br/formacao-spring-framework), [repositório](https://github.com/andre6293/Alura-Spring-Framework))
-* Formação React JS ([curso](https://cursos.alura.com.br/formacao-react-js), [repositorio](https://github.com/andre6293/Alura-React-JS))
+* Formação React JS ([curso](https://cursos.alura.com.br/formacao-react-js), [repositório](https://github.com/andre6293/Alura-React-JS))
 
 ---
 
