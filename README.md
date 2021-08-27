@@ -1,5 +1,6 @@
 # Andre Pinto
-### Java | Javascript | Python 
+<img src="https://img.shields.io/badge/Java-2c598a?style=for-the-badge&logo=java&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-2c598a?style=for-the-badge&logo=javascript&logoColor=white" /><img src="https://img.shields.io/badge/Python-2c598a?style=for-the-badge&logo=python&logoColor=white" />
+
 #### Cursando:
 * Tecnólogo em Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi ([curso](https://portal.anhembi.br/graduacao/cursos/tecnologia-em-analise-e-desenvolvimento-de-sistemas/))
 * Formação Spring Framework ([curso](https://cursos.alura.com.br/formacao-spring-framework), [repositório](https://github.com/andre6293/Alura-Spring-Framework))
