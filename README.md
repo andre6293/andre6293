@@ -1,14 +1,16 @@
 # Andre Pinto
-<img src="https://img.shields.io/badge/Java-2c598a?style=for-the-badge&logo=java&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-2c598a?style=for-the-badge&logo=javascript&logoColor=white" /><img src="https://img.shields.io/badge/Python-2c598a?style=for-the-badge&logo=python&logoColor=white" />
+Software engineer from São Paulo
 
-#### Cursando:
-* Tecnólogo em Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi ([curso](https://portal.anhembi.br/graduacao/cursos/tecnologia-em-analise-e-desenvolvimento-de-sistemas/))
-* Formação Spring Framework ([curso](https://cursos.alura.com.br/formacao-spring-framework), [repositório](https://github.com/andre6293/Alura-Spring-Framework))
+front-end
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+back-end
+
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+
+currently learning
+
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
 ---
-
-#### Concluídos:
-* Formação React JS ([curso](https://cursos.alura.com.br/formacao-react-js), [repositório](https://github.com/andre6293/Alura-React-JS), [certificado](https://cursos.alura.com.br/degree/certificate/8004c0de-bb63-4abc-ac61-afdc22b78d35))
-* Formação Java e Orientação a Objetos ([curso](https://cursos.alura.com.br/formacao-java), [repositório](https://github.com/andre6293/Alura-Java-e-Orientacao-a-Objetos), [certificado](https://cursos.alura.com.br/degree/certificate/194c4ae4-72fc-49a8-be27-813002b926d8))
-* Introdução à Ciência da Computação com Python ([parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos), [parte 2](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2), [repositório](https://github.com/andre6293/Introducao-a-Computacao))<br>
-* Spring Rest para Iniciantes ([curso](https://cafe.algaworks.com/spring-rest-para-iniciantes-v2/), [repositório](https://github.com/andre6293/OSWorks-api))
